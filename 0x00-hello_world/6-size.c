@@ -11,7 +11,7 @@ int main(void)
 			f(int));
 	printf("Size of a long int: %i byte(s)\n", sizeo
 			f(long int));
-	printf("Size of a long long int: %i byte(s)\n",sizeo
+	printf("Size of a long long int: %i byte(s)\n", sizeo
 			f(long long int));
 	printf("Size of a float: %i byte(s)\n", sizeo
 			f(float));
