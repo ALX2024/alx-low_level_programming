@@ -2,9 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main -parts if the number is positive,negative or
- 0
-Return: Always 0
+* main -parts if the number is positive,negative or 0
+* Return: Always 0
 */
 int main(void)
 {
